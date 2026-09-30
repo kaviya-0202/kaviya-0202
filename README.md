@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Kaviya%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast%20%7C%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/kaviya-0202/kaviya-0202/main/banner.svg" width="100%" alt="Kaviya S"/>
 
 <div align="center">
 
