@@ -34,16 +34,13 @@ Computer Science student with strong skills in **Java** and **Python**, and hand
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Structures-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/Agile-0EA5E9?style=flat-square" />
-
 </div>
 
 ---
